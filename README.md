@@ -1,6 +1,6 @@
 # Simple Interest Calculator
 
-This repository contains a Bash script that computes simple interest from principal, annual rate, and time in years.
+This repository contains a Bash script that computes simple interest from principal annual rate, an time in years.
 
 ## Requirements
 - bash
@@ -22,3 +22,5 @@ chmod +x simple-interest.sh
 
 ## License
 Apache License 2.0. See LICENSE.
+## Notes
+- Fixed minor typo in README.
