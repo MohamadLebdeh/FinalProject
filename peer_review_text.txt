@@ -1,0 +1,16 @@
+Peer review text answers template
+
+Part 1 Task 2
+I added an Apache 2.0 LICENSE file at the repository root. It matches the official text. Peers can open the LICENSE file to verify.
+
+Part 1 Task 3
+README.md is at the root and includes purpose, requirements, usage, and example output. It explains how to run the script with bc installed.
+
+Part 1 Task 4
+CODE_OF_CONDUCT.md is present using the Contributor Covenant v2.1, with a contact email placeholder to replace.
+
+Part 1 Task 5
+CONTRIBUTING.md is present. It explains forking, branching, commit messages, pull requests, and links to the Code of Conduct.
+
+Part 1 Task 6
+simple-interest.sh is present and executable. It validates inputs and prints the simple interest with two decimals using bc.
